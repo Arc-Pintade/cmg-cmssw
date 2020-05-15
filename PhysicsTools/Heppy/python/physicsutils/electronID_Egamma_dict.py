@@ -2,6 +2,9 @@
 
 wps_dict = {
   "cutBasedElectronID-Fall17-94X-V2-veto"    : ("Fall1794XV2", "veto"),
+  "cutBasedElectronID-Fall17-94X-V2-loose"   : ("Fall1794XV2", "loose"),
+  "cutBasedElectronID-Fall17-94X-V2-medium"  : ("Fall1794XV2", "medium"),
+  "cutBasedElectronID-Fall17-94X-V2-tight"   : ("Fall1794XV2", "tight"),
   "mvaEleID-Fall17-noIso-V2-Loose"           : ("Fall17NoIsoV2", "wpLoose"),
   "mvaEleID-Fall17-noIso-V2-wp90"            : ("Fall17NoIsoV2", "wp90"),
   "mvaEleID-Fall17-noIso-V2-wp80"            : ("Fall17NoIsoV2", "wp80"),
